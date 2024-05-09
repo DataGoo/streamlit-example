@@ -5,7 +5,6 @@ import seaborn as sns
 from ydata_profiling import ProfileReport
 import streamlit.components.v1 as components
 from streamlit_pandas_profiling import st_profile_report
-import sweetviz as sv
 import plotly.express as px
 
 # Configurar Streamlit para usar todo el ancho de la pantalla
