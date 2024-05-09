@@ -5,3 +5,4 @@ seaborn
 plotly
 ydata_profiling
 streamlit-pandas-profiling
+sweetviz 
