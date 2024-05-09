@@ -84,6 +84,6 @@ def main():
     with pestañas[5]:
         st.header('Acerca de')
         st.write('Esta es una aplicación que te permite navegar entre pestañas y ver análisis de los datos.')
-
+        st.write('Puedes Visitar Nuestra Github: https://github.com/DataGoo.')
 if __name__ == "__main__":
     main()
